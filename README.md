@@ -1,7 +1,5 @@
 # i2i-Academy-Redis-7
 
-# i2i Academy - Redis Homework
-
 A simple Java application demonstrating how to use Redis as an in-memory data store. The project sets up Redis and RedisInsight via Docker, then uses a Java client called Jedis to insert and retrieve 10,000 dummy `Person` records.
 
 ## Technologies Used
